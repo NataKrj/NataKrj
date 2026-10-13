@@ -1,69 +1,40 @@
-# Hi, I'm Natalja 👋
+# Hi, I'm Natalja
 
-**AML & Compliance | Risk Analytics | Data Analytics | Machine Learning | Automation**
+### AML & Compliance · Financial Crime Analytics · Data & Automation
 
-I am an AML and compliance professional with more than 10 years of experience across banking and financial services, including transaction monitoring, KYC/CDD/EDD, sanctions, risk assessment and regulatory compliance.
+**Bridging financial crime expertise with data analytics, machine learning and automation.**
 
-My current work combines AML and risk expertise with hands-on use of SQL and Python for data analysis, reporting, control development and process improvement. I am particularly interested in applying analytics, machine learning and automation to financial crime, compliance and regulatory risk.
+I am an AML and compliance professional with over 10 years of experience in banking and financial services. My work spans transaction monitoring, sanctions screening, KYC/CDD/EDD, risk assessment and regulatory compliance. I use Python and SQL to improve data quality, develop reporting and controls, and automate analytical workflows.
 
-## Focus Areas
+---
 
-- AML / CFT & Financial Crime
-- Transaction Monitoring
-- Sanctions & Screening
-- KYC / CDD / EDD
-- Regulatory Compliance
-- Risk & Control Development
-- Data Analytics
-- Machine Learning
-- Process Automation
+## Selected Work
 
-## Selected Projects
+| Area | Project | Focus |
+| --- | --- | --- |
+| Financial crime analytics | **Automated Risk Scoring System** | Scenario-based synthetic transactions and machine learning for AML monitoring and model evaluation |
+| Compliance automation | **Compliance & Audit Automation Toolkit** *(in development)* | Regulatory requirements, controls, evidence, testing and reporting |
+| Applied AI | **AI Project 2024** | Applied data analytics and machine learning |
+| Data analytics | **Analytics case studies** *(portfolio in progress)* | Data preparation, exploration, modelling and evaluation |
 
-### AML, Risk & Compliance
+*Project documentation and links will be refined as the portfolio develops.*
 
-**Automated Risk Scoring System**  
-Synthetic transaction data and machine learning for AML transaction monitoring and model evaluation.
+## Expertise
 
-**Compliance & Audit Automation Toolkit — in development**  
-Reusable approaches for regulatory mapping, controls testing, risk assessment, audit workflows and automated reporting.
+**Financial crime & risk:** AML/CFT · Transaction Monitoring · Sanctions · KYC/CDD/EDD · Regulatory Risk · Controls
 
-### Data Analytics & Machine Learning
+**Data & engineering:** Python · SQL · Pandas · NumPy · Data Cleaning · Reporting · Process Automation
 
-**AI Project 2024**  
-Applied data analytics and machine learning project.
+**Machine learning:** Classification · Clustering · Model Evaluation · Scikit-learn
 
-**Data Analytics & Machine Learning Case Studies — being added**  
-Exploratory data analysis, clustering, regression, classification and model interpretation using Python.
-
-## Technical Skills
-
-**Programming & Data:** Python, SQL, Pandas, NumPy  
-**Machine Learning:** Scikit-learn, regression, classification, clustering, model evaluation  
-**Analytics:** Data preparation, exploratory analysis, statistical analysis, risk scoring  
-**Visualization:** Tableau, Power BI, Qlik Sense, Matplotlib  
-**Domain:** AML/CFT, Compliance, Financial Crime, Regulatory Risk, Banking
+**Visual analytics:** Power BI · Tableau · Qlik Sense · Matplotlib
 
 ## Research
 
-**MSc in Computer Science: Data Analytics and Artificial Intelligence — Distinction**
+**MSc in Computer Science — Data Analytics and Artificial Intelligence (Distinction)**
 
-My research focuses on synthetic transaction data generation and machine learning for suspicious-transaction detection and transaction-monitoring model evaluation.
+My research examines how controlled, scenario-based synthetic transaction data can support the development and evaluation of machine-learning models for suspicious-transaction detection. It also considers the limitations of synthetic data and the practical challenges of evaluating models under class imbalance.
 
-## Current Development
+## What I'm Building
 
-I am developing a professional portfolio of reusable AML, Compliance, Internal Audit and Regulatory Risk solutions combining domain expertise with Python, data analytics, machine learning and automation.
-<!--
-**NataKrj/NataKrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A portfolio connecting **AML and compliance expertise** with practical **data analytics, machine learning and automation**, using reproducible examples and publicly shareable material.
