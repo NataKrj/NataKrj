@@ -37,6 +37,3 @@ I am an AML and compliance professional with over 10 years of experience in bank
 
 My research examines how controlled, scenario-based synthetic transaction data can support the development and evaluation of machine-learning models for suspicious-transaction detection. It also considers the limitations of synthetic data and the practical challenges of evaluating models under class imbalance.
 
-## What I'm Building
-
-A portfolio connecting **AML and compliance expertise** with practical **data analytics, machine learning and automation**, using reproducible examples and publicly shareable material.
