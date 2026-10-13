@@ -8,16 +8,18 @@ I am an AML and compliance professional with over 10 years of experience in bank
 
 ---
 
-## Selected Work
+## Selected Projects
 
-| Area | Project | Focus |
-| --- | --- | --- |
-| Financial crime analytics | **Automated Risk Scoring System** | Scenario-based synthetic transactions and machine learning for AML monitoring and model evaluation |
-| Compliance automation | **Compliance & Audit Automation Toolkit** *(in development)* | Regulatory requirements, controls, evidence, testing and reporting |
-| Applied AI | **AI Project 2024** | Applied data analytics and machine learning |
-| Data analytics | **Analytics case studies** *(portfolio in progress)* | Data preparation, exploration, modelling and evaluation |
+| Project | Overview |
+| --- | --- |
+| [AML Synthetic Data Framework](https://github.com/NataKrj/AML-Synthetic-Data-Framework) | Scenario-based synthetic transactions and machine-learning evaluation for AML transaction monitoring. |
+| [Financial Risk Monitoring Pipeline](https://github.com/NataKrj/financial-risk-monitoring-pipeline) | Python, PostgreSQL and Tableau workflow for transaction monitoring, complaint analysis and risk reporting. |
+| [Adverse Media Monitoring & Client Risk Assessment](https://github.com/NataKrj/AI-project-2024) | Collaborative AI project exploring adverse-media monitoring, company verification and client risk assessment. |
+| [Data Analytics & Machine Learning Case Studies](https://github.com/NataKrj/data-analytics-ml-case-studies) | Applied Python projects covering exploration, clustering, regression and classification. |
+| [Python Data Analysis Case Studies](https://github.com/NataKrj/python-data-analysis-case-studies) | Data cleaning, public-data analysis and reproducible exploratory workflows. |
+| [SQL Project Management Database](https://github.com/NataKrj/sql-project-management-database) | PostgreSQL relational design and reporting for project resources, proposals and financial performance. |
 
-*Project documentation and links will be refined as the portfolio develops.*
+*Further work on the Compliance & Audit Automation Toolkit is in development.*
 
 ## Expertise
 
